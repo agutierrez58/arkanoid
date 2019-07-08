@@ -1,6 +1,8 @@
 
 Arkanoid fent servir Processing ...
 
+La classe Arkanoid hi ha un main, cal executar-ho.
+
 
 
 ---------- Processing template
